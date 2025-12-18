@@ -49,11 +49,11 @@ Jarvis/
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
-```bash
+
 git clone https://github.com/your-username/Jarvis.git
 cd Jarvis
 
-2️⃣ Install Required Dependencies
+### 2️⃣ Install Required Dependencies
 
 pip install speechrecognition pyttsx3 gtts pygame requests openai pocketsphinx
 
